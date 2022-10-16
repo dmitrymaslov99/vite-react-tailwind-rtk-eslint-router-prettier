@@ -17,7 +17,6 @@ Use [degit](https://github.com/Rich-Harris/degit) for cope repository without gi
 ```bash
 npm install -g degit
 degit github:dmitrymaslov99/vite-react-tailwind-rtk-eslint-router-prettier
-git clone https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint.git
 npm i
 npm run dev
 ```
